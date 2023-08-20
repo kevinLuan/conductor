@@ -87,6 +87,5 @@
   "engines": {
     "node": ">=14.17.0"
   },
-  "license": "Apache-2.0",
-  "homepage": "/taskflow/ui/"
+  "license": "Apache-2.0"
 }
